@@ -1,13 +1,12 @@
 ## Data Visualization Final Project: Coffee Trades
 
-Coffee is an popular commodity and coffee exporting is important to many economies, including Brazil, Vietnam, Indonesia, Columbia, India, Ethiopia, Peru, Honduras, Mexico and Guatemala. They are the top 10 coffee producers. 
+Coffee is an popular commodity and coffee exporting is important to many economies, 
 
-### Markdown
+Due to the limitations of the data, the project will only cover 9 countries, which are major coffee exporters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Viz 1: Scatterplot that shows domestic consumption versus export
 
-```markdown
-Syntax highlighted code block
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/4.embed"></iframe>
 
 # Header 1
 ## Header 2
