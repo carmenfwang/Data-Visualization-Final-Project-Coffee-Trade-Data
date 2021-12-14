@@ -8,15 +8,21 @@ Due to the limitations of the data, the project will only cover 9 countries, whi
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/4.embed"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+### Viz 2: Domestic Consumption Over Time
 
-- Bulleted
-- List
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/14.embed"></iframe>
 
-1. Numbered
-2. List
+### Viz 3: Production Over Time 
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/17.embed"></iframe>
+
+### Viz 4: Prices Paid to Growers Over Time with Retail Price as the Comparison
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/6.embed"></iframe>
+
+### Viz 5: Horizontal Comparison of Prices Paid to Growers 
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~fw215/19.embed"></iframe>
 
 **Bold** and _Italic_ and `Code` text
 
